@@ -1,0 +1,6 @@
+{
+  "name": "VUDU Streaming",
+  "description": "Next-generation streaming platform for movies, cartoons, and music across all genres with immersive cinema and audio playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
